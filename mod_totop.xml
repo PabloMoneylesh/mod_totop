@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" method="upgrade" client="site">
+	<name>mod-totop</name>
+	<creationDate>23.05.2017</creationDate>
+	<author>Pablo Moneylesh</author>
+	<authorEmail>pablomoneylesh@gmail.com</authorEmail>
+	<authorUrl></authorUrl>
+	<copyright>Copyright © 2016 - All rights reserved.</copyright>
+	<license>GNU General Public License v2.0</license>
+	<version>0.0.1</version>
+	<description>light weight to top scroll module</description>
+	<files>
+		<filename module="mod_totop">mod_totop.php</filename>		
+	</files>	
+</extension>
